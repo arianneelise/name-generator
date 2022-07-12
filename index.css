@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.generator-wrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
